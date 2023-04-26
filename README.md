@@ -1,4 +1,11 @@
 ### Hi! 👋 I'm Ivan
+### Welcome to my repositories!
+
+### My projects:
+- Telegram bot - https://github.com/ponomarev-iv1986/homework_bot
+- YaTube - https://github.com/ponomarev-iv1986/hw05_final
+- API for YaTube - https://github.com/ponomarev-iv1986/api_final_yatube
+- YaMDb - https://github.com/ponomarev-iv1986/api_yamdb
 
 <!--
 **ponomarev-iv1986/ponomarev-iv1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
