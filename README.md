@@ -7,6 +7,10 @@
 - API for YaTube - https://github.com/ponomarev-iv1986/api_final_yatube
 - YaMDb - https://github.com/ponomarev-iv1986/api_yamdb
 
+### Contacts:
+- Mail: inbox@ponomarev-iv.ru
+- Telegram: @IV_Ponomarev
+
 <!--
 **ponomarev-iv1986/ponomarev-iv1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
