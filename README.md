@@ -6,6 +6,7 @@
 - YaTube - https://github.com/ponomarev-iv1986/hw05_final
 - API for YaTube - https://github.com/ponomarev-iv1986/api_final_yatube
 - YaMDb - https://github.com/ponomarev-iv1986/api_yamdb
+- Foodgram-project - https://github.com/ponomarev-iv1986/foodgram-project-react
 
 ### Contacts:
 - Mail: inbox@ponomarev-iv.ru
