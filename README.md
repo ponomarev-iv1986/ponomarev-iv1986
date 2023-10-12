@@ -2,17 +2,7 @@
 ### Welcome to my repositories!
 
 ### *My hard skills:*  
-<img src="icons/Python_logo_and_wordmark.svg" height="40" width="40" />
-<img src="icons/requests.png" height="40" width="40" />
-<img src="icons/Selenium.png" height="40" width="40" />
-<img src="icons/selene.png" height="40" width="40" />
-<img src="icons/Selenoid.svg" height="40" width="40" />
-<img src="icons/Pytest_logo.svg" height="40" width="40" />
-<img src="icons/Allure_Report.svg" height="40" width="40" />
-<img src="icons/Allure_EE.svg" height="40" width="40" />
-<img src="icons/Jenkins.svg" height="40" width="40" />
-<img src="icons/Docker.svg" height="40" width="40" />
-<img src="icons/Jira.svg" height="40" width="40" />
+<img src="icons/Python_logo_and_wordmark.svg" height="40" width="40" /><img src="icons/requests.png" height="40" width="40" /><img src="icons/Selenium.png" height="40" width="40" /><img src="icons/selene.png" height="40" width="40" /><img src="icons/Selenoid.svg" height="40" width="40" /><img src="icons/Pytest_logo.svg" height="40" width="40" /><img src="icons/Allure_Report.svg" height="40" width="40" /><img src="icons/Allure_EE.svg" height="40" width="40" /><img src="icons/Jenkins.svg" height="40" width="40" /><img src="icons/Docker.svg" height="40" width="40" /><img src="icons/Jira.svg" height="40" width="40" />
 
 ### *Summary:*  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ponomarev-iv1986)
