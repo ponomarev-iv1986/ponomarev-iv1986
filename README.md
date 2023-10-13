@@ -16,7 +16,7 @@
 
 ### *Contacts:*
 
-<table width="100%" border="0">
+<table width="110%" border="0">
   <tr> 
     <td width="30%" valign="bottom"><img src="icons/Mail.png" height="40" width="40"></td>
     <td valign="middle"><a href="inbox@ponomarev-iv.ru">inbox@ponomarev-iv.ru</a></td>
