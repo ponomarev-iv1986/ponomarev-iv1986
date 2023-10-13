@@ -16,14 +16,14 @@
 
 ### *Contacts:*
 
-<table width="110%" border="0">
+<table width="100%" border="0">
   <tr> 
-    <td width="30%" valign="bottom"><img src="icons/Mail.png" height="40" width="40"></td>
-    <td valign="middle"><a href="inbox@ponomarev-iv.ru">inbox@ponomarev-iv.ru</a></td>
+    <td width="70" height="70" valign="bottom"><img src="icons/Mail.png" height="40" width="40"></td>
+    <td width="200" height="70" valign="middle"><a href="inbox@ponomarev-iv.ru">inbox@ponomarev-iv.ru</a></td>
   </tr>
   <tr>
-    <td width="30%" valign="bottom"><img src="icons/Telegram.svg" height="40" width="40"></td>
-    <td valign="middle"><a href="https://t.me/IV_Ponomarev">@IV_Ponomarev</a></td>
+    <td width="70" height="70" valign="bottom"><img src="icons/Telegram.svg" height="40" width="40"></td>
+    <td width="200" height="70" valign="middle"><a href="https://t.me/IV_Ponomarev">@IV_Ponomarev</a></td>
   </tr>
 </table>
 
