@@ -1,20 +1,23 @@
-### Hi! 👋 I'm Ivan, Python QA Automation Engineer
+# Hi! 👋 I'm Ivan, Python QA Automation Engineer
 
-### Welcome to my repositories!
+### *Welcome to my repositories!*
 
-### *My hard skills:*
+## Hard skills:
 
 <img src="icons/Python_logo_and_wordmark.svg" height="40" width="40" /><img src="icons/requests.png" height="40" width="40" /><img src="icons/Selenium.png" height="40" width="40" /><img src="icons/selene.png" height="40" width="40" /><img src="icons/Selenoid.svg" height="40" width="40" /><img src="icons/Pytest_logo.svg" height="40" width="40" /><img src="icons/Allure_Report.svg" height="40" width="40" /><img src="icons/Allure_EE.svg" height="40" width="40" /><img src="icons/Jenkins.svg" height="40" width="40" /><img src="icons/Docker.svg" height="40" width="40" /><img src="icons/Jira.svg" height="40" width="40" />
 
-### *Summary:*
+## Summary:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ponomarev-iv1986)
 
-### *Stats:*
+## Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ponomarev-iv1986)](https://github.com/ponomarev-iv1986/github-readme-stats)
 
-### *Contacts:*
+## Projects:
+- <a target="_blank" href="https://github.com/ponomarev-iv1986/demoblaze_test_project.git">Демонстрационный проект по тестированию UI и API сайта "Product Store"</a>
+
+## Contacts:
 
 <table width="100%" border="0">
   <tr> 
