@@ -4,7 +4,7 @@
 
 ## Hard skills:
 
-<img src="icons/Python_logo_and_wordmark.svg" height="40" width="40" /><img src="icons/requests.png" height="40" width="40" /><img src="icons/Selenium.png" height="40" width="40" /><img src="icons/selene.png" height="40" width="40" /><img src="icons/Selenoid.svg" height="40" width="40" /><img src="icons/Pytest_logo.svg" height="40" width="40" /><img src="icons/Allure_Report.svg" height="40" width="40" /><img src="icons/Allure_EE.svg" height="40" width="40" /><img src="icons/Jenkins.svg" height="40" width="40" /><img src="icons/Docker.svg" height="40" width="40" /><img src="icons/Appium.svg" height="40" width="40" /><img src="icons/Browserstack.svg" height="40" width="40" /><img src="icons/Jira.svg" height="40" width="40" />
+<img src="icons/python_logo_and_wordmark.svg" height="40" width="40" /><img src="icons/requests.png" height="40" width="40" /><img src="icons/selenium.png" height="40" width="40" /><img src="icons/selene.png" height="40" width="40" /><img src="icons/selenoid.svg" height="40" width="40" /><img src="icons/pytest_logo.svg" height="40" width="40" /><img src="icons/allure_Report.svg" height="40" width="40" /><img src="icons/allure_EE.svg" height="40" width="40" /><img src="icons/jenkins.svg" height="40" width="40" /><img src="icons/docker.svg" height="40" width="40" /><img src="icons/appium.svg" height="40" width="40" /><img src="icons/browserstack.svg" height="40" width="40" /><img src="icons/jira.svg" height="40" width="40" />
 
 ## Summary:
 
@@ -21,11 +21,11 @@
 
 <table width="100%" border="0">
   <tr> 
-    <td width="70" height="70" valign="bottom"><img src="icons/Mail.png" height="40" width="40"></td>
+    <td width="70" height="70" valign="bottom"><img src="icons/mail.png" height="40" width="40"></td>
     <td width="200" height="70" valign="middle"><a href="mailto:inbox@ponomarev-iv.ru">inbox@ponomarev-iv.ru</a></td>
   </tr>
   <tr>
-    <td width="70" height="70" valign="bottom"><img src="icons/Telegram.svg" height="40" width="40"></td>
+    <td width="70" height="70" valign="bottom"><img src="icons/telegram.svg" height="40" width="40"></td>
     <td width="200" height="70" valign="middle"><a href="https://t.me/IV_Ponomarev">@IV_Ponomarev</a></td>
   </tr>
 </table>
