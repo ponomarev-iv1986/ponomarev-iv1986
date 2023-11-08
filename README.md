@@ -16,6 +16,8 @@
 
 ## Projects:
 - <a target="_blank" href="https://github.com/ponomarev-iv1986/demoblaze_test_project.git">Демонстрационный проект по тестированию UI и API сайта "Product Store"</a>
+- <a target="_blank" href="https://github.com/ponomarev-iv1986/wiki_app_test_project.git">Демонстрационный проект по тестированию мобильного приложения Wikipedia для Android</a>
+- <a target="_blank" href="https://github.com/ponomarev-iv1986/tensor_demo_project.git">Демонстрационный проект по тестированию главной страницы сайта компании "Тензор"</a>
 
 ## Contacts:
 
